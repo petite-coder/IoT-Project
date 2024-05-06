@@ -1,1 +1,1 @@
-# **CRYPTOGRAM 게임**
+# CRYPTOGRAM 게임
