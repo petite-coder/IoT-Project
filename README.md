@@ -11,3 +11,9 @@ Cryptogram - 컴퓨터 또는 중요한 파일에 대한 액세스를 제한하�
 5. 제한 시간이 남은 경우에 새로운 암호 출력, 아닌 경우에 최종 결과 출력
 
 ![image](https://github.com/IoT-programing-team-5/IoT-Project/assets/130052274/6d2359a6-1103-4ae1-a4ee-75b98f7d9f68)
+
+**센서 및 장치**
+
+1. Character LCD
+2. Tact Switch
+3. Dot Matrix
