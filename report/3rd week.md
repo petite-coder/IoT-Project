@@ -178,6 +178,7 @@ int main() {
 + 제한 시간 기능을 문제를 푸는 데 걸린 시간 측정으로 변경   
 + 점수 기능 도입
 </br>
+
 ## 기능 구체화   
 ![타겟 보드](https://github.com/IoT-programing-team-5/IoT-Project/blob/main/report/img/target%20board.png)
 1. CLCD   
