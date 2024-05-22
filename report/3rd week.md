@@ -180,7 +180,8 @@ int main() {
 </br>
 
 ## 기능 구체화   
-<img src="https://github.com/IoT-programing-team-5/IoT-Project/blob/main/report/img/target%20board.png" width="200" height="400"/>
+<img src="https://github.com/IoT-programing-team-5/IoT-Project/blob/main/report/img/target%20board.png" width="300" height="400"/>  
+
 1. CLCD   
   + 게임을 시작하면 문제의 주제 3초간 출력   
   + 크립토그램 문제 출력   
