@@ -4,16 +4,18 @@ Cryptogram - 컴퓨터 또는 중요한 파일에 대한 액세스를 제한하�
 
 **게임 진행 방식**
 
-1. 제한 시간 설정 
-2. Character LCD에 풀어야 하는 암호(문장 또는 단어) 출력
-3. Tact Switch로 정답을 입력
-4. Dot Matrix로 정답 여부를 확인
-5. 제한 시간이 남은 경우에 새로운 암호 출력, 아닌 경우에 최종 결과 출력
+1. Character LCD에 주제, 문제 출력
+2. FND로 스탑 워치 기능
+3. Tact Switch, Dot Matrix로 알파벳 선택
+4. Dip Switch로 힌트 확인
+5. 한 문제를 풀 때마다 걸린 시간 및 점수 확인
 
 ![image](https://github.com/IoT-programing-team-5/IoT-Project/assets/130052274/6d2359a6-1103-4ae1-a4ee-75b98f7d9f68)
 
 **센서 및 장치**
 
-1. Character LCD
-2. Tact Switch
-3. Dot Matrix
+1. Character LCD - 주제, 문제, 점수
+2. Tact Switch - 알파벳 선택
+3. Dot Matrix - 알파벳 선택
+4. Dip Switch - 힌트 출력
+5. FND - 스탑워치
