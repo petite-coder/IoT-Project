@@ -21,6 +21,8 @@
 + Dot Matrix에 알파벳 띄우기
 
   <img src="https://github.com/IoT-programing-team-5/IoT-Project/blob/main/report/img/dot%20%EC%95%8C%ED%8C%8C%EB%B2%B3.gif" width="300" height="400"/>
+
+  https://github.com/IoT-programing-team-5/IoT-Project/blob/main/Codes/dip_test.c
 + 랜덤 문제 출력 및 암호화 구현
 
 
