@@ -18,4 +18,6 @@
 + Dip Switch 작동값 확인
   
   <img src="https://github.com/IoT-programing-team-5/IoT-Project/blob/main/report/img/dip%20%EC%9E%91%EB%8F%99%EA%B0%92.PNG" width="400" height="200"/>
-+ 
++ Dot Matrix에 알파벳 띄우기
+
+  <img src="https://github.com/IoT-programing-team-5/IoT-Project/blob/main/report/img/dot%20%EC%95%8C%ED%8C%8C%EB%B2%B3.gif" width="300" height="400"/>
