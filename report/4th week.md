@@ -16,5 +16,6 @@
 ## 3주차 활동 내용
 + 입출력 장치 예시 코드 실행 및 확인
 + Dip Switch 작동값 확인
+  
   <img src="https://github.com/IoT-programing-team-5/IoT-Project/blob/main/report/img/dip%20%EC%9E%91%EB%8F%99%EA%B0%92.PNG" width="400" height="200"/>
 + 
