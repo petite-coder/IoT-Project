@@ -10,10 +10,6 @@
 // 디바이스 드라이버 경로
 #define dip "/dev/dipsw"        // Dip Switch
 
-// int getDipSW(unsigned char *input);
-
-// int dipSw;
-
 int main()
 {
     unsigned char c;
