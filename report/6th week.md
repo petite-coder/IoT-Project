@@ -28,7 +28,7 @@
     
     <img src="https://github.com/IoT-programing-team-5/IoT-Project/blob/main/report/img/dip3.gif" width="300" height="400"/>
 
-https://github.com/IoT-programing-team-5/IoT-Project/blob/main/Codes/hintOpen.c
+    https://github.com/IoT-programing-team-5/IoT-Project/blob/main/Codes/hintOpen.c
 
 + 알파벳 출력 및 선택
 
