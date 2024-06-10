@@ -20,6 +20,7 @@
 + https://github.com/IoT-programing-team-5/IoT-Project/blob/main/Codes/hintOpen.c
 
 + 알파벳 출력 및 선택
+
 ![dot](https://github.com/IoT-programing-team-5/IoT-Project/assets/91825888/20f8cb9d-b89a-48e6-aacd-555f77b90dc5)
 
 + 타이머
