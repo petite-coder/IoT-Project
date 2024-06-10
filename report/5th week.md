@@ -1,4 +1,4 @@
-# 5주차 보고서
+# 6주차 보고서
 </br>
 
 **5조**   
@@ -13,7 +13,7 @@
 </br>
 </br>
 
-## 3주차 활동 내용
+## 4, 5주차 활동 내용
 + 힌트 출력
 
 ![11](https://github.com/IoT-programing-team-5/IoT-Project/assets/91825888/9db0d5f1-a7fc-4bfa-9032-26c6e3799d06)
