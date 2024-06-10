@@ -22,6 +22,7 @@
 + 알파벳 출력 및 선택
 
 ![dot](https://github.com/IoT-programing-team-5/IoT-Project/assets/91825888/20f8cb9d-b89a-48e6-aacd-555f77b90dc5)
+https://github.com/IoT-programing-team-5/IoT-Project/blob/main/Codes/dot_re.c
 
 + 타이머
 
