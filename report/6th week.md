@@ -17,18 +17,16 @@
 + 힌트 출력   
   + dip1: 주제 다시 보기    
 
-
-  <img src="https://github.com/IoT-programing-team-5/IoT-Project/blob/main/report/img/dip1.gif" width="300" height="400"/>
+    <img src="https://github.com/IoT-programing-team-5/IoT-Project/blob/main/report/img/dip1.gif" width="300" height="400"/>
 
   + dip2: 힌트 보기    
 
-
-  <img src="https://github.com/IoT-programing-team-5/IoT-Project/blob/main/report/img/dip2.gif" width="300" height="400"/>
+    <img src="https://github.com/IoT-programing-team-5/IoT-Project/blob/main/report/img/dip2.gif" width="300" height="400"/>
 
 
   + dip3: 한 암호를 선택해 답 공개    
     
-  <img src="https://github.com/IoT-programing-team-5/IoT-Project/blob/main/report/img/dip3.gif" width="300" height="400"/>
+    <img src="https://github.com/IoT-programing-team-5/IoT-Project/blob/main/report/img/dip3.gif" width="300" height="400"/>
 
 https://github.com/IoT-programing-team-5/IoT-Project/blob/main/Codes/hintOpen.c
 
