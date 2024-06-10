@@ -17,13 +17,16 @@
 + 힌트 출력
 
 ![11](https://github.com/IoT-programing-team-5/IoT-Project/assets/91825888/9db0d5f1-a7fc-4bfa-9032-26c6e3799d06)
++ https://github.com/IoT-programing-team-5/IoT-Project/blob/main/Codes/hintOpen.c
 
 + 알파벳 출력 및 선택
 + 타이머
 
 ![타이머](https://github.com/IoT-programing-team-5/IoT-Project/assets/91825888/f70487d3-97cc-4e92-bacd-0b9359eb7140)
++ https://github.com/IoT-programing-team-5/IoT-Project/blob/main/Codes/fnd_test2.c
 
 + 코드 통합
++ https://github.com/IoT-programing-team-5/IoT-Project/blob/main/Codes/y_test.c
   
   
 
