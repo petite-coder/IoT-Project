@@ -10,7 +10,7 @@ Cryptogram - 컴퓨터 또는 중요한 파일에 대한 액세스를 제한하�
 4. Dip Switch로 힌트 확인
 5. 한 문제를 풀 때마다 걸린 시간 및 점수 확인
 
-![image](https://github.com/IoT-programing-team-5/IoT-Project/assets/130052274/6d2359a6-1103-4ae1-a4ee-75b98f7d9f68)
+![image](https://raw.githubusercontent.com/IoT-programing-team-5/IoT-Project/main/report/img/%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%B0%A8%ED%8A%B8.png)
 
 **센서 및 장치**
 
