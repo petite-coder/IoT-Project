@@ -48,6 +48,7 @@
 
 ## 참고
 + https://github.com/leejongseok1/digivice/blob/main/main/main.cpp
++ https://github.com/Jin-Sang/IOT2/tree/main
 + https://cccding.tistory.com/80
 + https://comonyo.tistory.com/entry/Kernel-Porting-7-H-Smart4412-Dip-Switch-%EC%9E%91%EB%8F%99%ED%95%98%EA%B8%B0
 + https://comonyo.tistory.com/entry/Kernel-Porting-9-H-Smart4412-Dot-Matrix-%EC%9E%91%EB%8F%99%ED%95%98%EA%B8%B0
