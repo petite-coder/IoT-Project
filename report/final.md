@@ -22,9 +22,7 @@
 + 구현 기능
   + 독창성
  
-+ 시연 영상
-
-  <https://youtu.be/ZJcun-a4ZXE?si=bPZ5OPqYbS7Te_jF>
++ [시연 영상]<https://youtu.be/ZJcun-a4ZXE?si=bPZ5OPqYbS7Te_jF>
 
 ## 핵심 코드
  
