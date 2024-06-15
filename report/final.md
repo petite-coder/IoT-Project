@@ -24,6 +24,8 @@
  
 + 시연 영상
 
+  <https://youtu.be/ZJcun-a4ZXE?si=bPZ5OPqYbS7Te_jF>
+
 ## 핵심 코드
  
 ## 참고 자료
