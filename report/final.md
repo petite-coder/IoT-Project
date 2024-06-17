@@ -118,6 +118,7 @@
   + 독창성
  
     + While문을 사용해서 Dip Switch 상태를 계속 확인해서 Dip Switch가 언제 켜지든 반응을 할 수 있다.
+    + Dip Switch를 활용해서 다양한 기능을 구현했다.
    
 ```cpp
   int main(){
@@ -178,8 +179,6 @@
 ```
 
 
-    + Dip Switch를 활용해서 다양한 기능을 구현했다.
-    
     
 ```cpp
 void handle_dip_switch(unsigned char dipNum, cryptogram select, char *newStat) {
