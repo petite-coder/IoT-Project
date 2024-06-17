@@ -117,10 +117,8 @@
   + 독창성
  
     + While문을 사용해서 Dip Switch 상태를 계속 확인해서 Dip Switch가 언제 켜지든 반응을 할 수 있다.
-
-    + Dip Switch를 활용해서 다양한 기능을 구현했다.
    
-  ```cpp
+      ```cpp
   int main(){
 
     while(1){
@@ -177,6 +175,35 @@
         usleep(500000);
     }
   ```
+
+    + Dip Switch를 활용해서 다양한 기능을 구현했다.
+  ```cpp
+void handle_dip_switch(unsigned char dipNum, cryptogram select, char *newStat) {
+    char msg[33] = "";
+
+    switch (dipNum) {
+        case 1: /* LCD > 주제 다시 보기 */
+            printf("Review Topic\n");
+            strncpy(msg, select.topic, sizeof(msg) - 1);
+            printLcd(msg);
+            break;
+        case 2: /* LCD > 힌트 보기 */
+            printf("View Hint\n");
+            strncpy(msg, select.hint, sizeof(msg) - 1);
+            printLcd(msg);
+            counter += 5;
+            break;
+        case 4: /* 암호 공개 모드 */
+            printf("PW Open Mode\n");
+            open_mode(newStat, select);
+            break;
+        case 16:/* 수정 모드 */
+            printf("Edit Mode\n");
+            edit_mode(newStat, select);
+            break;
+    }
+}
+```
 
   + [최종 코드](https://github.com/IoT-programing-team-5/IoT-Project/blob/main/Codes/iot_project.c)
  
