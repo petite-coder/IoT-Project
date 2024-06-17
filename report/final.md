@@ -177,7 +177,9 @@
     }
 ```
 
+
     + Dip Switch를 활용해서 다양한 기능을 구현했다.
+    
     
 ```cpp
 void handle_dip_switch(unsigned char dipNum, cryptogram select, char *newStat) {
