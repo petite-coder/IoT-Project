@@ -119,7 +119,7 @@
  
     + While문을 사용해서 Dip Switch 상태를 계속 확인해서 Dip Switch가 언제 켜지든 반응을 할 수 있다.
    
-      ```cpp
+```cpp
   int main(){
 
     while(1){
@@ -175,10 +175,10 @@
         }   
         usleep(500000);
     }
-  ```
+```
 
     + Dip Switch를 활용해서 다양한 기능을 구현했다.
-  ```cpp
+```cpp
 void handle_dip_switch(unsigned char dipNum, cryptogram select, char *newStat) {
     char msg[33] = "";
 
