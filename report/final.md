@@ -89,6 +89,7 @@
       ✔ 공개된 암호가 반영된 문제가 LCD에 표시
  
       <img src="https://github.com/IoT-programing-team-5/IoT-Project/blob/main/report/img/f_dip3.gif"/>
+      <img src="https://github.com/IoT-programing-team-5/IoT-Project/blob/main/report/img/open%20a%20character.gif"/>
     
       ✔ 더 이상 공개할 암호가 없으면 정답 여부를 확인
     
