@@ -221,8 +221,8 @@ void handle_dip_switch(unsigned char dipNum, cryptogram select, char *newStat) {
 + https://comonyo.tistory.com/category/Embedded/Kernel%20Porting
 + ChatGPT
   + 주로 error 나 버그를 해결하는 데 사용
-  <img src="https://github.com/IoT-programing-team-5/IoT-Project/assets/156408029/39c41a1f-b5dd-4faf-bf19-bf7874bdf11a)" width="300" height="200"/>
-  <img src="(https://github.com/IoT-programing-team-5/IoT-Project/assets/156408029/310dac5b-fb30-46f0-a137-a8e694ae52fa)" width="300" height="200"/>
-  <img src="(https://github.com/IoT-programing-team-5/IoT-Project/assets/156408029/544b485c-dd29-474b-ad4e-823f64fd4558)" width="300" height="200"/>
+  <img src="https://github.com/IoT-programing-team-5/IoT-Project/assets/156408029/39c41a1f-b5dd-4faf-bf19-bf7874bdf11a" width="300" height="200"/>
+  <img src="https://github.com/IoT-programing-team-5/IoT-Project/assets/156408029/310dac5b-fb30-46f0-a137-a8e694ae52fa" width="300" height="200"/>
+  <img src="https://github.com/IoT-programing-team-5/IoT-Project/assets/156408029/544b485c-dd29-474b-ad4e-823f64fd4558" width="300" height="200"/>
 
 
