@@ -126,8 +126,7 @@ Cryptogram - 컴퓨터 또는 중요한 파일에 대한 액세스를 제한하�
  
 + [시연 영상](https://youtu.be/ZJcun-a4ZXE?si=bPZ5OPqYbS7Te_jF)
 
-  [![Video Label](http://img.youtube.com/vi/ZJcun-a4ZXE/0.jpg)]
-  (https://youtu.be/ZJcun-a4ZXE)
+  [![Video Label](http://img.youtube.com/vi/ZJcun-a4ZXE/0.jpg)](https://youtu.be/ZJcun-a4ZXE)
 
 
 
